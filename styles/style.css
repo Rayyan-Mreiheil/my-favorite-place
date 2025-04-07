@@ -19,3 +19,10 @@ a:hover {
 /* a:visited{
     color: green;
 } */
+
+header, footer {
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
