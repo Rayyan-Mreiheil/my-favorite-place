@@ -33,3 +33,8 @@ header {
     color: red;
     font-style: italic;
 }
+
+footer {
+    border-top: 5px double red;
+    border-radius: 10px 10px 0px 0px;
+}
