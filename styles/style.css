@@ -52,3 +52,13 @@ img {
     margin: 0 auto;
     padding: 10px;
 }
+
+.switch-page2, .switch-page1 {
+    background-color: lightskyblue;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: blue;
+    width: fit-content;
+    margin: 10px auto;
+    padding: 8px;
+}
