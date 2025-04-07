@@ -26,3 +26,10 @@ header, footer {
     padding: 20px;
     font-weight: bold;
 }
+
+header {
+    border-bottom: 5px double red;
+    border-radius: 0px 0px 50px 50px;
+    color: red;
+    font-style: italic;
+}
