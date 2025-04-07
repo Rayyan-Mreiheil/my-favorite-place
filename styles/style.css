@@ -66,3 +66,8 @@ img {
 main {
     padding: 40px 0px 10px 0px;
 }
+
+ul {
+    /* list-style-position: inside; */
+    list-style-type: none;
+}
